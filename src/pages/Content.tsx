@@ -75,9 +75,6 @@ const Content = () => (
       <a href="https://www.are.na/adi">
         <Arena className="arena icon" />
       </a>
-      <a href="https://www.instagram.com/adi.png">
-        <Instagram className="instagram icon" />
-      </a>
       <a href="https://www.github.com/adidottxt">
         <Github className="github icon" />
       </a>
