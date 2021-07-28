@@ -7,7 +7,6 @@ import Subheader from 'components/Subheader'
 import Mail from 'icons/Mail'
 import Arena from 'icons/Arena'
 import Github from 'icons/Github'
-import Instagram from 'icons/Instagram'
 
 const Content = () => (
   <>
